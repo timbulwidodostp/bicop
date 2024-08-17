@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'bicop': Generalized bivariate ordinal regression model Use bicop With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f bicop.ado
+f bicop.sthlp
+f bicop_lf1.ado
+f bicop_p.ado
+f bicop_postestimation.sthlp
