@@ -3,6 +3,8 @@ Generalized bivariate ordinal regression model Use bicop With STATA 18
 
 Fitting bivariate ordinal regressions with residual dependence characterised by a copula function and normal mixture marginals Use bicop With STATA 18
 
+https://www.youtube.com/watch?v=EaTEijDKBxY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
